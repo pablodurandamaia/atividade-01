@@ -1,0 +1,17 @@
+
+.cri{
+    font-family: 'Crimson Text', serif;
+    background-color: black;
+}
+.white{
+    color: white;
+    font-size: 20px;
+}
+.crimson{
+    color: crimson;
+    font-size: 50px;
+}
+.grid{
+    display: grid;
+    grid-auto-flow: column;
+}
